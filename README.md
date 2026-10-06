@@ -3,4 +3,4 @@
 Fun fact: I went to soccer for 7 years</p>
 <a href= "https://www.fcbarcelona.com/en/">My favorite team</a>
 
-<img src="" />
+<img src="lewandoski.jpeg" />
