@@ -2,5 +2,7 @@
 <p>Mr. Unlands class is boring because I cant sit next to Farajian<br>
 Fun fact: I went to soccer for 7 years</p>
 <a href= "https://www.fcbarcelona.com/en/">My favorite team</a>
-[![NaKaravardanyan26 stats](https://github-stats-extended.vercel.app/api?username=NaKaravardanyan26)](https://github.com/stats-organization/github-stats-extended)
+
+<img src="https://github-stats-extended.vercel.app/api?username=NaKaravardanyan26">
+
 <img src="Lewandoski.jpeg" />
